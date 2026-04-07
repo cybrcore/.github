@@ -10,11 +10,13 @@
   ·
   <a href="https://github.com/cybrcore/cybrland#-showcase">Showcase</a>
   ·
-  <a href="https://github.com/cybrcore/cybrland/blob/main/PHILOSOPHY.md">Philosophy</a>
+  <a href="https://github.com/cybrcore/cybrcore">Design specification & Philosophy</a>
 </h6>
 
 &nbsp;
 
-<p align="center">
-  Cybrware is a community-driven cyberpunk theme. Bringing high contrast, bold colors, maximum function and no distractions. It consists of <a href="https://github.com/cybrcore/cybrcolors">cybrcolors</a>, <a href="https://github.com/cybrcore/cybrpapers">cybrpapers</a> and <a href="https://github.com/cybrcore/cybrland">cybrland</a> dotfiles.
-</p>
+`cybrcore` is a lucid design system and philosophy. Custom color palette, wallpapers, deliberate typography. 20+ redesigned applications. It replaces the bloated, manipulative defaults of modern computing with something lucid -- sharp, fast, honest, and under user control.  
+
+The aesthetic is an honest reflection of the world this interface exists in -- one of corporate control, dark patterns, and engineered passivity. `cybrcore` doesn't look away. It gives users back the agency that was taken.  
+
+It consists of <a href="https://github.com/cybrcore/cybrcolors">cybrcolors</a>, <a href="https://github.com/cybrcore/cybrpapers">cybrpapers</a> and <a href="https://github.com/cybrcore/cybrland">cybrland</a> dotfiles, and a growing collection of application themes.  
