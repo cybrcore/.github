@@ -1,16 +1,19 @@
-<h3 align="center">
-	<img src="https://avatars.githubusercontent.com/u/273222080" width="100" alt="Logo"/><br/>
-	cybrcore
-</h3>
+<img alt="cybrcore" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/repo-banners/cybrcore-readme-banner-top.png"/>
+
+<p align="center">
+  <a href="https://stand-with-ukraine.pp.ua/">
+    <img alt="standwithukraine" src="https://img.shields.io/badge/Support-Ukraine-FFC93C?style=flat-square&labelColor=07689F">
+  </a>
+</p>
 
 <h6 align="center">
+  <a href="https://github.com/cybrcore/cybrdots">Dotfiles & Showcase</a>
+  ·
   <a href="https://github.com/cybrcore/cybrcolors#-palette">Palette</a>
   ·
-  <a href="https://github.com/cybrcore/cybrdots">Dotfiles</a>
+  <a href="https://github.com/cybrcore/cybrcore/blob/main/design-specification.md">Design specification</a>
   ·
-  <a href="https://github.com/cybrcore/cybrdots#-showcase">Showcase</a>
-  ·
-  <a href="https://github.com/cybrcore/cybrcore">Design specification & Philosophy</a>
+  <a href="https://github.com/cybrcore/cybrcore/blob/main/README.md">Philosophy</a>
 </h6>
 
 &nbsp;
