@@ -5,7 +5,8 @@ This project has clear guidelines for AI usage.
 
 ## Before contributing
 - Read [Code of Conduct](https://github.com/cybrcore/.github/CODE_OF_CONDUCT.md)  
-- Read [Design Philosophy](https://github.com/cybrcore/cybrcore) to understand the *why* and *how*  
+- Read [Design Philosophy](https://github.com/cybrcore/cybrcore/blob/main/design-philosophy.md) to understand the *why*  
+- Read [Design Specification](https://github.com/cybrcore/cybrcore/blob/main/design-specification.md) to understand the *how*  
 - Read [AI Usage Disclosure](https://github.com/cybrcore/cybrcore/AI_DISCLOSURE.md) to understand when and how to use AI  
 
 ### Key expectations
@@ -33,10 +34,9 @@ This project has clear guidelines for AI usage.
 
 ### Submitting Pull Requests
 1. Fork and create a branch `fix/<short-description>`
-2. Follow [Design Philosophy](https://github.com/cybrcore/cybrcore)
-3. Test locally on Cybrpaper wallpapers, with transparency on/off
-4. Document any non-obvious config changes inline
-5. Submit PR with clear description
+2. Test locally on Cybrpaper wallpapers, with transparency on/off
+3. Document any non-obvious config changes inline
+4. Submit PR with clear description
 
 ### Contribution Types
 - **Bug Fix:** Resolve broken themes or misaligned elements
