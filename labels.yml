@@ -1,0 +1,27 @@
+- name: docs
+  color: "3061F2"
+  description: Improvements or additions to documentation
+- name: doppler
+  color: "0D1120"
+  description: Already exists elsewhere
+- name: glitch
+  color: "F24848"
+  description: Something looks wrong or behaves oddly
+- name: upgrade
+  color: "29BECC"
+  description: Feature request
+- name: nice one
+  color: "A130F2"
+  description: Good issue
+- name: help wanted
+  color: "30F291"
+  description: Extra hands needed
+- name: noise
+  color: "F2D230"
+  description: This doesn't seem right
+- name: ping
+  color: "F230B2"
+  description: More info requested
+- name: void
+  color: "0D1120"
+  description: Will not be worked on
